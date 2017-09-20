@@ -1,1 +1,1 @@
-# 00iCon.github.io
+redirect_to: /index.html
